@@ -14,6 +14,7 @@
  <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking</a></li>
  <li><a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">Hosting Services</a></li>
  <li><a href="https://intelx.io/tools?tab=telegram">IntelX</a></li>
+ <li><a href="https://cse.google.com/cse?cx=8e26eca532ec2cba3#gsc.tab=0">Invite Links</a></li>
  <li><a href="https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0">LinkedIn Custom Search Engine (1)</a></li>
  <li><a href="https://cse.google.co.nz/cse?cx=014394093098352383268:w7sqo_x4rb0">LinkedIn Custom Search Engine (2)</a></li>
  <li><a href="https://cse.google.com/cse?cx=000470283453218169915%3Ahcrzdwsiwrc#gsc.tab=0">LinkedIn Custom Search Engine (3)</a></li>
